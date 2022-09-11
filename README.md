@@ -1,10 +1,8 @@
 ![Logo](https://ricco-storage.s3.sa-east-1.amazonaws.com/django-deploy-assets/django-cover.png)
-
-<div style="display: inline_block"><br>
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Python](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<div style="display: inline_block">
+ <img align="center" alt="django-badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+ <img align="center" alt="heroku-badge" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+ <img align="center" alt="python-badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 # Deploy Django Aplication to Heroku
